@@ -6,9 +6,6 @@
 Admin_Email= programming@hero.com
 Admin_Pass= Abc@123
 
-Git_Hub_Client_Link= https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-AbuBokorSiddik67
-Git_Hub_Server_Link= https://github.com/Programming-Hero-Web-Course4/b11a12-server-side-AbuBokorSiddik67
-
 LiveSite_Link= https://news-letter-fb213.web.app/
 
 Some information:
