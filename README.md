@@ -1,6 +1,8 @@
 # [News Letter Website] 🚀
 
-![Project Screenshot](https://i.ibb.co.com/fdhWDD1T/Screenshot-from-2025-08-09-12-20-56.png)
+<div>
+  <img src="https://i.ibb.co.com/fdhWDD1T/Screenshot-from-2025-08-09-12-20-56.png">
+</div>
 
 ### 📄 Overview
 
